@@ -1,14 +1,14 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolidPrinciplesDemo.Api", "SolidPrinciplesDemo.Api\SolidPrinciplesDemo.Api.csproj", "{A72E6297-3710-40F9-AAF3-5CC33BB8983C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolidCodeBase.Api", "SolidCodeBase.Api\SolidCodeBase.Api.csproj", "{A72E6297-3710-40F9-AAF3-5CC33BB8983C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolidPrinciplesDemo.Core", "SolidPrinciplesDemo.Core\SolidPrinciplesDemo.Core.csproj", "{7C5004FE-C0B4-44AD-B99F-92F8E68901F2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolidCodeBase.Core", "SolidCodeBase.Core\SolidCodeBase.Core.csproj", "{7C5004FE-C0B4-44AD-B99F-92F8E68901F2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolidPrinciplesDemo.Infrastructure", "SolidPrinciplesDemo.Infrastructure\SolidPrinciplesDemo.Infrastructure.csproj", "{90B335C8-9FFC-41D8-A80F-DFB348D231DB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolidCodeBase.Infrastructure", "SolidCodeBase.Infrastructure\SolidCodeBase.Infrastructure.csproj", "{90B335C8-9FFC-41D8-A80F-DFB348D231DB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolidPrinciplesDemo.Services", "SolidPrinciplesDemo.Services\SolidPrinciplesDemo.Services.csproj", "{77C8627F-A7B6-42CE-AF7F-0FF1AE67F104}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolidCodeBase.Services", "SolidCodeBase.Services\SolidCodeBase.Services.csproj", "{77C8627F-A7B6-42CE-AF7F-0FF1AE67F104}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolidPrinciplesDemo.Tests", "SolidPrinciplesDemo.Tests\SolidPrinciplesDemo.Tests.csproj", "{ADB28670-7C83-44F6-8ED9-55EC35386B3B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolidCodeBase.Tests", "SolidCodeBase.Tests\SolidCodeBase.Tests.csproj", "{ADB28670-7C83-44F6-8ED9-55EC35386B3B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
