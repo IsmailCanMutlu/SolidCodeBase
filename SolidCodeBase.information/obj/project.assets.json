@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ismailcanmutlu/RiderProjects/SolidCodeBase/SolidCodeBase.Infrastructure/SolidCodeBase.Infrastructure.csproj",
-      "projectName": "SolidCodeBase.Infrastructure",
-      "projectPath": "/Users/ismailcanmutlu/RiderProjects/SolidCodeBase/SolidCodeBase.Infrastructure/SolidCodeBase.Infrastructure.csproj",
+      "projectUniqueName": "/Users/ismailcanmutlu/RiderProjects/SolidCodeBase/SolidCodeBase.Information/SolidCodeBase.Information.csproj",
+      "projectName": "SolidCodeBase.Information",
+      "projectPath": "/Users/ismailcanmutlu/RiderProjects/SolidCodeBase/SolidCodeBase.Information/SolidCodeBase.Information.csproj",
       "packagesPath": "/Users/ismailcanmutlu/.nuget/packages/",
-      "outputPath": "/Users/ismailcanmutlu/RiderProjects/SolidCodeBase/SolidCodeBase.Infrastructure/obj/",
+      "outputPath": "/Users/ismailcanmutlu/RiderProjects/SolidCodeBase/SolidCodeBase.Information/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/ismailcanmutlu/.nuget/NuGet/NuGet.Config"

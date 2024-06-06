@@ -1,13 +1,20 @@
-using SolidCodeBase.Core.Models;
-using SolidCodeBase.Core.Interfaces;
-
 namespace SolidCodeBase.Core.Services
 {
-    public class InvoiceService: IInvoiceService
+    using SolidCodeBase.Core.Interfaces;
+    using SolidCodeBase.Core.Models;
+
+    public class InvoiceService : IInvoiceService
     {
+        private readonly IBaseRepository<Invoice> _invoiceRepository;
+
+        public InvoiceService(IBaseRepository<Invoice> invoiceRepository)
+        {
+            _invoiceRepository = invoiceRepository;
+        }
+
         public void ProcessInvoice(Invoice invoice)
         {
-            // Invoice transactions
+            _invoiceRepository.Add(invoice);
         }
     }
 }

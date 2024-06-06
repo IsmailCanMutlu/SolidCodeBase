@@ -1,0 +1,52 @@
+SOLID Principles and Project Implementation
+
+Single Responsibility Principle (SRP)
+Description:
+The Single Responsibility Principle states that a class should have only one reason to change,
+meaning it should have only one job or responsibility.
+
+Implementation:
+In our project, we have created specific classes for each distinct responsibility. 
+For example, the Invoice class is responsible for representing invoice data, while the InvoiceService 
+class is responsible for processing invoices. This ensures that each class has a single responsibility and 
+a single reason to change.
+
+Open/Closed Principle (OCP)
+Description:
+The Open/Closed Principle states that software entities (classes, modules, functions, etc.) should be open 
+for extension but closed for modification.
+
+Implementation:
+We implemented this principle by using interfaces and creating multiple implementations of the payment processing service. 
+For example, we have separate classes for credit card payments and PayPal payments, both implementing the IPaymentService 
+interface. This allows us to add new payment methods without modifying existing code.
+
+Liskov Substitution Principle (LSP)
+Description:
+The Liskov Substitution Principle states that objects of a superclass should be replaceable with objects of a subclass without 
+affecting the correctness of the program.
+
+Implementation:
+We implemented this principle by creating a base repository class and extending it for specific entities. For example, 
+the UserRepository class extends the BaseRepository class and can replace it without affecting the correctness of the program. 
+This ensures that our subclass implementations are interchangeable with the base class.
+
+Interface Segregation Principle (ISP)
+Description:
+The Interface Segregation Principle states that no client should be forced to depend on methods it does not use. 
+Instead of one large interface, many small interfaces are preferred.
+
+Implementation:
+We implemented this principle by creating specific interfaces for different services. For example, we have separate interfaces 
+for invoice services and payment services. By creating small, specific interfaces, we ensure that implementing classes are not 
+forced to implement methods they do not use.
+
+Dependency Inversion Principle (DIP)
+Description:
+The Dependency Inversion Principle states that high-level modules should not depend on low-level modules. Both should depend on 
+abstractions. Additionally, abstractions should not depend on details. Details should depend on abstractions.
+
+Implementation:
+We implemented this principle by using dependency injection to provide implementations of interfaces. For example, our 
+InvoiceService depends on an abstraction (IBaseRepository<Invoice>) rather than a concrete class. This ensures that high-level 
+modules are decoupled from low-level module implementations, promoting flexibility and maintainability.
