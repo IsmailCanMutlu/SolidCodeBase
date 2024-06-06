@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/ismailcanmutlu/RiderProjects/SolidCodeBase/SolidCodeBase.Api/obj/Debug/net8.0/scopedcss/projectbundle/SolidCodeBase.Api.bundle.scp.css",
+      "PackagePath": "staticwebassets/SolidCodeBase.Api.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/ismailcanmutlu/RiderProjects/SolidCodeBase/SolidCodeBase.Api/wwwroot/app.css",
+      "PackagePath": "staticwebassets/app.css"
+    },
+    {
+      "Id": "/Users/ismailcanmutlu/RiderProjects/SolidCodeBase/SolidCodeBase.Api/wwwroot/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/ismailcanmutlu/RiderProjects/SolidCodeBase/SolidCodeBase.Api/wwwroot/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/ismailcanmutlu/RiderProjects/SolidCodeBase/SolidCodeBase.Api/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.SolidCodeBase.Api.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.SolidCodeBase.Api.props",
+      "PackagePath": "build\\SolidCodeBase.Api.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.SolidCodeBase.Api.props",
+      "PackagePath": "buildMultiTargeting\\SolidCodeBase.Api.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.SolidCodeBase.Api.props",
+      "PackagePath": "buildTransitive\\SolidCodeBase.Api.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

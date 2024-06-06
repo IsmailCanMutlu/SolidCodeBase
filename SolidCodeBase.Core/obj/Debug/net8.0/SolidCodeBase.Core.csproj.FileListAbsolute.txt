@@ -1,0 +1,12 @@
+/Users/ismailcanmutlu/RiderProjects/SolidCodeBase/SolidCodeBase.Core/bin/Debug/net8.0/SolidCodeBase.Core.deps.json
+/Users/ismailcanmutlu/RiderProjects/SolidCodeBase/SolidCodeBase.Core/bin/Debug/net8.0/SolidCodeBase.Core.dll
+/Users/ismailcanmutlu/RiderProjects/SolidCodeBase/SolidCodeBase.Core/bin/Debug/net8.0/SolidCodeBase.Core.pdb
+/Users/ismailcanmutlu/RiderProjects/SolidCodeBase/SolidCodeBase.Core/obj/Debug/net8.0/SolidCodeBase.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ismailcanmutlu/RiderProjects/SolidCodeBase/SolidCodeBase.Core/obj/Debug/net8.0/SolidCodeBase.Core.AssemblyInfoInputs.cache
+/Users/ismailcanmutlu/RiderProjects/SolidCodeBase/SolidCodeBase.Core/obj/Debug/net8.0/SolidCodeBase.Core.AssemblyInfo.cs
+/Users/ismailcanmutlu/RiderProjects/SolidCodeBase/SolidCodeBase.Core/obj/Debug/net8.0/SolidCodeBase.Core.csproj.CoreCompileInputs.cache
+/Users/ismailcanmutlu/RiderProjects/SolidCodeBase/SolidCodeBase.Core/obj/Debug/net8.0/SolidCodeBase.Core.sourcelink.json
+/Users/ismailcanmutlu/RiderProjects/SolidCodeBase/SolidCodeBase.Core/obj/Debug/net8.0/SolidCodeBase.Core.dll
+/Users/ismailcanmutlu/RiderProjects/SolidCodeBase/SolidCodeBase.Core/obj/Debug/net8.0/refint/SolidCodeBase.Core.dll
+/Users/ismailcanmutlu/RiderProjects/SolidCodeBase/SolidCodeBase.Core/obj/Debug/net8.0/SolidCodeBase.Core.pdb
+/Users/ismailcanmutlu/RiderProjects/SolidCodeBase/SolidCodeBase.Core/obj/Debug/net8.0/ref/SolidCodeBase.Core.dll
